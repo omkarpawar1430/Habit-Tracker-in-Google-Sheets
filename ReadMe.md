@@ -18,13 +18,9 @@ Welcome to the Habit Tracker for 2024, a Google Sheets template to help you stay
 
 6. **Tracking Progress**: Each day, mark the corresponding habit's cell with an "x" once you've completed it. The spreadsheet will calculate your daily and yearly completion percentages.
 
-## Personal Use
 
 - Use this template to track personal habits, such as reading, exercising, meditating, or any other goals you have for the year.
 
-## Business Use
-
-- For businesses, this tool can be adapted to track team habits and productivity. Assign specific habits or tasks to team members, and monitor their progress.
 
 ## Contributing
 
